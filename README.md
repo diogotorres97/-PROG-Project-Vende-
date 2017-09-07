@@ -1,10 +1,10 @@
-#PROG-FEUP
+# PROG-FEUP
 
 Code made for Programming (PROG), a subject in MIEIC (FEUP). Made in collaboration with @Quaresma1997
 
 C++ based clients &amp; transactions management tool that uses .txt files as input and output.
 
-##"Supermercado "Vende++" - suporte para decisões informadas"
+## "Supermercado "Vende++" - suporte para decisões informadas"
 
 O projeto está funcional e concluido, cumprindo todos os objetivos e com todas as medidas implementadas de acordo com o enunciado do projeto:
 
