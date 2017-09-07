@@ -6,7 +6,7 @@ C++ based clients &amp; transactions management tool that uses .txt files as inp
 
 ## "Supermercado "Vende++" - suporte para decisões informadas"
 
-O projeto está funcional e concluido, cumprindo todos os objetivos e com todas as medidas implementadas de acordo com o enunciado do projeto:
+O projeto está funcional e concluido, cumprindo todos os objetivos e com todas as medidas implementadas de acordo com o enunciado do projeto: 
 
 1.Ler e guardar a informação de clientes, produtos (só leitura)  e transações em ficheiros;
 
